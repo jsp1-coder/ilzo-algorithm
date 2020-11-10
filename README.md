@@ -8,7 +8,7 @@
 - 천재희
 
 ### 스터디 계획
-- [notion ](https://www.notion.so/4d7f425b89374b77a5cec20ffcf5c578"일조 노션")
+- [notion 참고](https://www.notion.so/4d7f425b89374b77a5cec20ffcf5c578 "일조 노션")
 - 매주 일요일 2시 ~ 6시 오프라인 모임
 - 매주 할당된 문제를 오프라인 모임 전까지 풀고 Pull Request
 - 오프라인 모임에서 문제 코드를 보며 코드 리뷰
